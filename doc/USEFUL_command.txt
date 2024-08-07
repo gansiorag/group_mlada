@@ -1,0 +1,10 @@
+1. Конвертация методами linux файлов типа docx  в txt
+
+sudo apt-get install docx2txt
+
+docx2txt foo.docx
+
+For .doc use catdoc:
+
+catdoc foo.doc > foo.txt
+
