@@ -1,10 +1,14 @@
 /dataset_loc/
-/dataset/наушники/
-/dataset/ноутбук/
-/dataset/планшет/
-/dataset/платье/
-/dataset/телевизор/
-/dataset/смартфон/
-/dataset/туфли/
+.venv/
+work_text_on_image/.DS_Store
+.DS_Store
+/dataset/кроссовки
+/dataset/планшет
+/dataset/наушники
+/dataset/ноутбук
+/dataset/платье
+/dataset/смартфон
+/dataset/телевизор
+/dataset/туфли
 /dataset/чехол для телефона/
-dataset/кроссовки/
+
