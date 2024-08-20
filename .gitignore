@@ -12,3 +12,5 @@ work_text_on_image/.DS_Store
 /dataset/туфли
 /dataset/чехол для телефона/
 
+data/train/attributes.parquet
+data/train/text_and_bert.parquet
