@@ -15,3 +15,6 @@ data/train/
 data/all_obj.csv
 data/desc_all_text_cat4.pickle
 data/sets_desc_all_text_cat4.pickle
+data/set_com_words.pickle
+data/X_words.pickle
+data/Y_var.pickle
