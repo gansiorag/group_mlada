@@ -18,3 +18,5 @@ data/sets_desc_all_text_cat4.pickle
 data/set_com_words.pickle
 data/X_words.pickle
 data/Y_var.pickle
+data/X2.pickle
+data/Y2.pickle
