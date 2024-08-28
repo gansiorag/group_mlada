@@ -13,3 +13,14 @@ work_text_on_image/.DS_Store
 /dataset/чехол для телефона/
 data/train/
 data/all_obj.csv
+data/desc_all_text_cat4.pickle
+data/sets_desc_all_text_cat4.pickle
+data/set_com_words.pickle
+data/X_words.pickle
+data/Y_var.pickle
+data/X2.pickle
+data/Y2.pickle
+data/X.pickle
+data/X3.pickle
+data/Y.pickle
+data/Y3.pickle
