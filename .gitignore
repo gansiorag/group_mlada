@@ -25,3 +25,14 @@ data/X3.pickle
 data/Y.pickle
 data/Y3.pickle
 data/
+work_txt/model_2_full.pkl
+work_txt/model_3_full.pkl
+work_txt/model_3.pkl
+work_txt/model_compressed2.pkl
+work_txt/submission1.csv
+work_txt/submission2.csv
+work_txt/vectorizer_3.pkl
+work_image/catboost_info/catboost_training.json
+work_image/catboost_info/learn_error.tsv
+work_image/catboost_info/time_left.tsv
+work_image/catboost_info/learn/events.out.tfevents
